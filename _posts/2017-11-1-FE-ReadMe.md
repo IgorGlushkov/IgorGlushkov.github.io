@@ -65,9 +65,11 @@ GLAD ALERTS за 15,16 и 17 год
 ## ПРИМЕР Landsat
 
 ###Шаг 1. Находим предполагаемую рубку по данным ALERT 2017
+
 ![jpg]({{ site.baseurl }}/images/s1.jpg)
 
 ###Шаг 2. Смотрим на базовые слои
+
 ![jpg]({{ site.baseurl }}/images/base1.jpg)
 
 И
@@ -75,6 +77,7 @@ GLAD ALERTS за 15,16 и 17 год
 ![jpg]({{ site.baseurl }}/images/base2.jpg)
 
 ###Шаг 3. Находим первую появившеюся рубку
+
 ![jpg]({{ site.baseurl }}/images/l1.jpg)
 
 Ок
@@ -82,14 +85,18 @@ GLAD ALERTS за 15,16 и 17 год
 ![jpg]({{ site.baseurl }}/images/l3.jpg)
 
 В процессе добавляем тренинги на облака
+
 ![jpg]({{ site.baseurl }}/images/cloud_nocloud.jpg)
 
 ###Шаг 4. Картируем измениия по границам  пикселей
+
 ![jpg]({{ site.baseurl }}/images/l3_change.jpg)
 
 ###Шаг 5. Добавляем новые
+
 ![jpg]({{ site.baseurl }}/images/l7_change.jpg)
 
 ###Шаг 6. Доходим до последнего композита и только тогда добавляем NOCHANGE полигоны
+
 ![jpg]({{ site.baseurl }}/images/change_nochange.jpg)
 
