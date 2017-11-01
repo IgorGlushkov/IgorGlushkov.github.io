@@ -3,10 +3,6 @@ layout: post
 title: First!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-IgorGlushkov.github.io/images/s1.jpg
-
 README FE2018
 Период:
 с 26 октября по 9 июня -с периодом в 16 дней (всего 15 срезов)
@@ -65,4 +61,5 @@ GLAD ALERTS за 15,16 и 17 год
 
 Первый блок - 200 облаков, 300 не-облака
 
+![jpg]({{ site.baseurl }}/images/s1.jpg)
 
