@@ -88,7 +88,7 @@ GLAD ALERTS за 15,16 и 17 год
 
 ### Шаг 4. Картируем измениия по границам  пикселей
 
-![jpg]({{ site.baseurl }}/images/l3_change.jpg)
+![jpg]({{ site.baseurl }}/images/drl3_change.jpg)
 
 ### Шаг 5. Добавляем новые
 
