@@ -8,7 +8,7 @@ title: FE20!8
 
 ## AOI
 
-Сечас композиты сделаны для всей территории [юга Дальнего Востока](https://drive.google.com/a/greenpeace.org/file/d/1iDcQKLaDpzuPAks4-zcVudJToPRTRRy2/view?usp=sharing). В первую очередь рисуем участки в границх следующих лесничеств Приморские: Дальнереченское, Рощинское лесничества. Хабаровский край: бикинское, аванское, хорское, мухенское. Границы лесничеств можно скачать здесь: [LU.zip]()
+Сечас композиты сделаны для всей территории [юга Дальнего Востока](https://drive.google.com/a/greenpeace.org/file/d/1iDcQKLaDpzuPAks4-zcVudJToPRTRRy2/view?usp=sharing). В первую очередь рисуем участки в границх следующих лесничеств Приморские: Дальнереченское, Рощинское лесничества. Хабаровский край: бикинское, аванское, хорское, мухенское. Границы лесничеств можно скачать здесь: [LU.zip](https://drive.google.com/a/greenpeace.org/file/d/19g-QNa6cRyzNVtVSWZHmWBigSLazlhST/view?usp=sharing)
 
 ### Данные:
 
