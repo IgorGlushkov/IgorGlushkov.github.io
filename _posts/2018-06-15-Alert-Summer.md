@@ -3,10 +3,6 @@ layout: post
 title: Alert 2018 Summer
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
 README FE2018 Summer
 
 Период:
@@ -32,6 +28,8 @@ README FE2018 Summer
 3. Данные Алерта UMD -для выбора участков
 GLAD ALERTS за 2017 год
 
+Ссылка на диск:
+https://drive.google.com/drive/folders/19byz5fMqyko0cSd9LnCE2kBwNcc_nPP8?usp=sharing
 
 Задачи:
 
