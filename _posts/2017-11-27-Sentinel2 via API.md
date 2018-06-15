@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: S2API
+title: S2 API
 ---
 
 
