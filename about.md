@@ -12,4 +12,4 @@ Igor Glushkov
 
 ### Contact me
 
-[email@domain.com](mailto:glushkov2igor@gmail.com)
+[glushkov2igor@gmail.com](mailto:glushkov2igor@gmail.com)
